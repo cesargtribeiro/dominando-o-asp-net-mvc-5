@@ -252,6 +252,16 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CesarRibeiro.Business\CesarRibeiro.Business.csproj">
+      <Project>{aade51be-03f3-46c1-9b76-8280b2f9107d}</Project>
+      <Name>CesarRibeiro.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CesarRibeiro.Infra\CesarRibeiro.Infra.csproj">
+      <Project>{276b02e8-6ce2-443a-a0d1-5878435b8e55}</Project>
+      <Name>CesarRibeiro.Infra</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
