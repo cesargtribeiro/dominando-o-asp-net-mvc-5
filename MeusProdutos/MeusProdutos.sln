@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CesarRibeiro.AppMvc", "src\CesarRibeiro.AppMvc\CesarRibeiro.AppMvc.csproj", "{77176B42-AAA5-4F53-89A2-9DE09FC55653}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CesarRibeiro.Business", "src\CesarRibeiro.Business\CesarRibeiro.Business.csproj", "{AADE51BE-03F3-46C1-9B76-8280B2F9107D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CesarRibeiro.Infra", "src\CesarRibeiro.Infra\CesarRibeiro.Infra.csproj", "{276B02E8-6CE2-443A-A0D1-5878435B8E55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{77176B42-AAA5-4F53-89A2-9DE09FC55653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77176B42-AAA5-4F53-89A2-9DE09FC55653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77176B42-AAA5-4F53-89A2-9DE09FC55653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AADE51BE-03F3-46C1-9B76-8280B2F9107D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADE51BE-03F3-46C1-9B76-8280B2F9107D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADE51BE-03F3-46C1-9B76-8280B2F9107D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADE51BE-03F3-46C1-9B76-8280B2F9107D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276B02E8-6CE2-443A-A0D1-5878435B8E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276B02E8-6CE2-443A-A0D1-5878435B8E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276B02E8-6CE2-443A-A0D1-5878435B8E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276B02E8-6CE2-443A-A0D1-5878435B8E55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

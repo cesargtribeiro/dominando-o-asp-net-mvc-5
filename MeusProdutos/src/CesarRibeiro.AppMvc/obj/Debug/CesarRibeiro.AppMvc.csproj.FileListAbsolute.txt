@@ -123,3 +123,8 @@ E:\Projetos\MVC5\DominandoASP.NET_MVC5\MeusProdutos\src\CesarRibeiro.AppMvc\obj\
 E:\Projetos\MVC5\DominandoASP.NET_MVC5\MeusProdutos\src\CesarRibeiro.AppMvc\obj\Debug\CesarRibeiro.AppMvc.csproj.CopyComplete
 E:\Projetos\MVC5\DominandoASP.NET_MVC5\MeusProdutos\src\CesarRibeiro.AppMvc\obj\Debug\CesarRibeiro.AppMvc.dll
 E:\Projetos\MVC5\DominandoASP.NET_MVC5\MeusProdutos\src\CesarRibeiro.AppMvc\obj\Debug\CesarRibeiro.AppMvc.pdb
+E:\Projetos\MVC5\DominandoASP.NET_MVC5\MeusProdutos\src\CesarRibeiro.AppMvc\bin\CesarRibeiro.Business.dll
+E:\Projetos\MVC5\DominandoASP.NET_MVC5\MeusProdutos\src\CesarRibeiro.AppMvc\bin\CesarRibeiro.Infra.dll
+E:\Projetos\MVC5\DominandoASP.NET_MVC5\MeusProdutos\src\CesarRibeiro.AppMvc\bin\CesarRibeiro.Business.pdb
+E:\Projetos\MVC5\DominandoASP.NET_MVC5\MeusProdutos\src\CesarRibeiro.AppMvc\bin\CesarRibeiro.Infra.pdb
+E:\Projetos\MVC5\DominandoASP.NET_MVC5\MeusProdutos\src\CesarRibeiro.AppMvc\bin\CesarRibeiro.Infra.dll.config
